@@ -29,7 +29,7 @@ Mais recentemente, tenho expandido meus conhecimentos para o desenvolvimento ful
 
 - 🔐 **[API Spring Boot com autenticação JWT](https://github.com/Dutkercz/Prisma-Mobi)**
   
-  Acesse o [app em produção](https://prisma-mobi-production.up.railway.app) (pode não funcionar caso o serviço seja desconectado).    
+  Acesse o [app em produção](https://prisma-mobi-production.up.railway.app/swagger-ui/index.html) (pode não funcionar caso o serviço seja desconectado).    
   REST API com segurança baseada em token, validação de dados e integração com banco de dados.
   É um tipo de aplicativo para transporte, onde é possivel cadastrar um login de usuário, e posteriormente completar como
   motorista ou passageiro, também é possivel criar requests de uma viagem, escolhendo latitude e longitude
