@@ -27,14 +27,14 @@ Mais recentemente, tenho expandido meus conhecimentos para o desenvolvimento ful
 
 ## 📌 Projetos em destaque (e em desenvolvimento)
 
-- 🔐 **[API Spring Boot com autenticação JWT](https://github.com/Dutkercz/Prisma-Mobi)**
+- 🔐 **[API Para aplicativo de transporte - Prisma-Mobi](https://github.com/Dutkercz/Prisma-Mobi)**
   
   Acesse o [app em produção](https://prisma-mobi-production.up.railway.app/swagger-ui/index.html) (pode não funcionar caso o serviço seja desconectado).    
-  REST API com segurança baseada em token, validação de dados e integração com banco de dados.
-  É um tipo de aplicativo para transporte, onde é possivel cadastrar um login de usuário, e posteriormente completar como
+  REST API com segurança baseada em token, validação de dados e integração com banco de dados MySQL, e Flyway para versionamento do banco.
+  É uma API REST para aplicativo de transporte, onde é possivel cadastrar um login de usuário, e posteriormente completar como
   motorista ou passageiro, também é possivel criar requests de uma viagem, escolhendo latitude e longitude
-  de origem e destino.
-  
+  de origem e destino, há tambem o CRUD completos para passageiros e motoristas onde é possível fazer mudanças no cadastro, mas apenas
+  para alguns campos. Todos os endpoints possuem DTOs personalizados, protegendo a Entidade princípal e forncendo informações necessárias.  
    
 
 - 🏨 **[Hotel Manager (foi meu primeiro projeto de API rest)](https://github.com/Dutkercz/HotelManager)**  
