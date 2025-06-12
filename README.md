@@ -34,10 +34,19 @@ Mais recentemente, tenho expandido meus conhecimentos para o desenvolvimento ful
   É uma API REST para aplicativo de transporte, onde é possivel cadastrar um login de usuário, e posteriormente completar como
   motorista ou passageiro, também é possivel criar requests de uma viagem, escolhendo latitude e longitude
   de origem e destino, há tambem o CRUD completos para passageiros e motoristas onde é possível fazer mudanças no cadastro, mas apenas
-  para alguns campos. Todos os endpoints possuem DTOs personalizados, protegendo a Entidade princípal e forncendo informações necessárias.  
-   
+  para alguns campos. Todos os endpoints possuem DTOs personalizados, protegendo a Entidade princípal e forncendo informações necessárias.
 
-- 🏨 **[Hotel Manager (foi meu primeiro projeto de API rest)](https://github.com/Dutkercz/HotelManager)**  
+---
+
+ - 🔐 **[Projeto Login App ](https://github.com/Dutkercz/Projeto-Login-App)**
+ - Acesse o App em produção no render -> **[Login-App](https://projeto-login-app.onrender.com/)**
+   
+    O Login App é uma aplicação web desenvolvida com Angular no front-end e Java/Spring no back-end. O projeto tem como objetivo praticar e aprimorar habilidades tanto de front-end quanto de back-end.
+    Possui funcionalidades simples, como cadastro de usuários, login e redirecionamento para uma tela Home. A autenticação é realizada via JWT (JSON Web Token), enviado através de cookies com HttpOnly, garantindo maior segurança na comunicação entre cliente e servidor.
+
+---
+
+- 🏨 **[Hotel Manager (foi meu primeiro projeto de API)](https://github.com/Dutkercz/HotelManager)**  
   Virou um monolito, meio confuso a primeira vista... mas extremamente funcional, e util no meu trablho.
   Mas que precisa SIM de algumas melhorias, na verdade de uma versão nova. MUITO EM BREVE.
   
