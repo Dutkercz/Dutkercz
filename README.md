@@ -17,10 +17,11 @@ Mais recentemente, tenho expandido meus conhecimentos para o desenvolvimento ful
 - MySQL e PostgreSQL
 - Flyway
 - Postman
-- Springdoc
+- OpenAPI (Swagger) utilizando Springdoc-openapi
 
 ### 🎨 Front-end
 - Angular
+- React
 - HTML5, CSS3, TypeScript
 
 ---
