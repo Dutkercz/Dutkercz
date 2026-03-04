@@ -22,7 +22,8 @@ Mais recentemente, tenho expandido meus conhecimentos para o desenvolvimento ful
 ### 🎨 Front-end
 - Angular
 - React
-- HTML5, CSS3, TypeScript
+- TypeScript
+- HTML5, CSS3
 
 ---
 
