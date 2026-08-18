@@ -36,7 +36,7 @@ alinhadas ao mercado como Java, Spring, React, TypeScript, SQL e ferramentas de 
 
 
 ## 📈 GitHub Stats
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dutkercz&layout=compact&theme=github_dark)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=dutkercz&theme=github_dark)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 
