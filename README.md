@@ -1,6 +1,6 @@
 #  Olá! Eu sou Cristian
 
-Estudante de Análise e Desenvolvimento de Sistemas.
+Estudante de Engenharia de Software.
 
 Curioso e Admirador da tecnologia, e de toda a facilidade que ela nos proporciona no dia-a-dia.
 
